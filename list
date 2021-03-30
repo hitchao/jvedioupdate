@@ -13,12 +13,12 @@ GalaSoft.MvvmLight.Platform.pdb 0b7faa990895fe38f8e050947d0a8397
 HandyControl.dll 0db62f3e62fed2590519ea203f818c43
 HtmlAgilityPack.dll c01139f066fd4c815f7444e026a1dfff
 HtmlAgilityPack.pdb e6a7383e915242f67e3d882cb4835b3f
-Jvedio.exe c75ff39c3a0779d99b118b3331b6ea33
-Jvedio.exe.config ab8bb4352956af95e98edcecc1cf5b80
-Jvedio.exe.manifest 631acab149539a1f7e1ba774bb33075a
-Jvedio.Language.dll 9ce81f7ad2af0e799c3ed9ad9e626956
-Jvedio.Language.pdb e4ac63dc0940a88d334154b8a7256892
-Jvedio.pdb a3004ae922a840d1af868b2eb97020f0
+Jvedio.exe a5a2ffbb50916fd5e74046365a2ada05
+Jvedio.exe.config f18a326491115838bd9ea809482ca927
+Jvedio.exe.manifest c291656b967c5cd9a301922e7e96a6ae
+Jvedio.Language.dll f059ee72caa69344422ae9cabc0c397d
+Jvedio.Language.pdb f84459504df047217e19b3e963b00795
+Jvedio.pdb 95c134b5330f20affba717594a52546a
 LiveCharts.dll 9642899636959b7fc89bf34a8b998a90
 LiveCharts.pdb f3c4997da85fc8495388fc5ea284a697
 LiveCharts.Wpf.dll e924f79f0b5f3e79c98477d75831813d
@@ -49,10 +49,10 @@ UsnOperation.dll 849cc234126153bfe3e3e9ae12fa0332
 VirtualizingWrapPanel.dll e182f7dc38d0b0d673ae2f6348ab733f
 WpfAnimatedGif.dll f99c1a128e3655243c8b0a839a4042bc
 en\HandyControl.resources.dll 698ad2958428a0307cec4fc97233e89c
-en-US\Jvedio.Language.resources.dll befb13a32b6919d689d7fb98fd1dfff5
+en-US\Jvedio.Language.resources.dll da2578a7d99cf9ee5b0bc268619fc347
 fa\HandyControl.resources.dll af1a9ae17f0da426ab828b3679cef17f
 fr\HandyControl.resources.dll 2aa4be1673c4f414fbcb6252e7cefefd
-ja-JP\Jvedio.Language.resources.dll fe938372d1471e099d354fcd62a26b91
+ja-JP\Jvedio.Language.resources.dll 71c908789e87cc6571bcd559034df2f7
 ko-KR\HandyControl.resources.dll ece9a2edd9727b6363a9ecd69e4b879c
 Reference\WpfAnimatedGif.dll f99c1a128e3655243c8b0a839a4042bc
 Resources\Jvedio.ico 99f714379a78abe610e01588bf5e491d
@@ -60,4 +60,4 @@ ru\HandyControl.resources.dll cdfc17ca8e7abf225683e7bc97694233
 tr\HandyControl.resources.dll b35c6da0edd8e1fd45378ba1583872f4
 x64\SQLite.Interop.dll 7de130ce491d63ecb3920687a84df54a
 x86\SQLite.Interop.dll 1d5041dc5a86b787d9701b78a9e0b121
-zh-CN\Jvedio.Language.resources.dll bf32ba015699ff152b003c17907e1757
+zh-CN\Jvedio.Language.resources.dll 8010ab041d35c385bcd20147cec04a10
