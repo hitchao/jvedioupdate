@@ -4,7 +4,7 @@
   <description asmv2:iconFile="Resources\Jvedio.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
   <application />
   <entryPoint>
-    <assemblyIdentity name="Jvedio" version="4.5.6.0" language="neutral" processorArchitecture="msil" />
+    <assemblyIdentity name="Jvedio" version="4.5.7.0" language="neutral" processorArchitecture="msil" />
     <commandLine file="Jvedio.exe" parameters="" />
   </entryPoint>
   <trustInfo>
@@ -150,182 +150,218 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="HandyControl.dll" size="1381376">
-      <assemblyIdentity name="HandyControl" version="2.5.0.1" language="neutral" processorArchitecture="msil" />
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="HandyControl.dll" size="1293312">
+      <assemblyIdentity name="HandyControl" version="3.1.0.0" publicKeyToken="45BE8712787A1E5B" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>wdWuh4iryVcWXRHtyVODkUITFB/1Zm28t6auGrCnTjs=</dsig:DigestValue>
+        <dsig:DigestValue>cj1BiiR3ONKzvFBlgGTe4yfJF3/T9t0+C8+6v5JWzmg=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ca-ES\HandyControl.resources.dll" size="6656">
+      <assemblyIdentity name="HandyControl.resources" version="3.1.0.0" publicKeyToken="45BE8712787A1E5B" language="ca-ES" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>kaztC7n2ZQgM/gGUdYq6Zs1lQ3F5kK0kry1CmY2wt9k=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
     <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="en\HandyControl.resources.dll" size="6144">
-      <assemblyIdentity name="HandyControl.resources" version="2.5.0.1" language="en" processorArchitecture="msil" />
+      <assemblyIdentity name="HandyControl.resources" version="3.1.0.0" publicKeyToken="45BE8712787A1E5B" language="en" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>tbbDXMqC1u8kejTVyyEaUBf74iEx26w6FsCgVOG7dOk=</dsig:DigestValue>
+        <dsig:DigestValue>EOHn6wN1JUoCGTnJrxnZicXG1BULLsENL1KueQ4fmfA=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
     <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="fa\HandyControl.resources.dll" size="6656">
-      <assemblyIdentity name="HandyControl.resources" version="2.5.0.1" language="fa" processorArchitecture="msil" />
+      <assemblyIdentity name="HandyControl.resources" version="3.1.0.0" publicKeyToken="45BE8712787A1E5B" language="fa" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>b0H+znD/neWpaOFyWQhONyXdLL8hpwhH036i0Sme+Pk=</dsig:DigestValue>
+        <dsig:DigestValue>PKXTqkGE0MHisgI8UpvHs5bZfeWGAZY03lOPqqrQnDM=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
     <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="fr\HandyControl.resources.dll" size="6144">
-      <assemblyIdentity name="HandyControl.resources" version="2.5.0.1" language="fr" processorArchitecture="msil" />
+      <assemblyIdentity name="HandyControl.resources" version="3.1.0.0" publicKeyToken="45BE8712787A1E5B" language="fr" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>lJ+dY3p5RlAhWKyUjpQrOINSp8Bdy2gJ0POSpqcvOKA=</dsig:DigestValue>
+        <dsig:DigestValue>sOMaRq/D0JzS7lI/02J9CWxdq5Jbqpjnb5AA9OYkocY=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
     <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ko-KR\HandyControl.resources.dll" size="6144">
-      <assemblyIdentity name="HandyControl.resources" version="2.5.0.1" language="ko-KR" processorArchitecture="msil" />
+      <assemblyIdentity name="HandyControl.resources" version="3.1.0.0" publicKeyToken="45BE8712787A1E5B" language="ko-KR" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>tM0vox3RPRHeTERy4sqmkBQhrvi/hMlGmosT0a2aF9I=</dsig:DigestValue>
+        <dsig:DigestValue>MssfsasvbmmVYLkwxlo0YRjBkQwVzuOhJo6YSkKiUAI=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="pl\HandyControl.resources.dll" size="6144">
+      <assemblyIdentity name="HandyControl.resources" version="3.1.0.0" publicKeyToken="45BE8712787A1E5B" language="pl" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>fs4GRASvK0dzQ7lJbonbgxziaoBJ5pFmUiwCbG+U5ic=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="pt-BR\HandyControl.resources.dll" size="6656">
+      <assemblyIdentity name="HandyControl.resources" version="3.1.0.0" publicKeyToken="45BE8712787A1E5B" language="pt-BR" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>cnovPatiTPCVExjhIlGxRUCraNtiCx7IcMFH5RaChVQ=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
     <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ru\HandyControl.resources.dll" size="6656">
-      <assemblyIdentity name="HandyControl.resources" version="2.5.0.1" language="ru" processorArchitecture="msil" />
+      <assemblyIdentity name="HandyControl.resources" version="3.1.0.0" publicKeyToken="45BE8712787A1E5B" language="ru" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>eD2mdOUvJwQ3/0FiDZpM0QUwtLIzLe4LrDNF7eapBIw=</dsig:DigestValue>
+        <dsig:DigestValue>t80ZMv7yZ3a79s0xlk6i4cuZy46jqF1stThKRjXYkx8=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
     <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="tr\HandyControl.resources.dll" size="6144">
-      <assemblyIdentity name="HandyControl.resources" version="2.5.0.1" language="tr" processorArchitecture="msil" />
+      <assemblyIdentity name="HandyControl.resources" version="3.1.0.0" publicKeyToken="45BE8712787A1E5B" language="tr" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>8lM5Nw4TAxhobPzB9KOMsqHA+E1OEoForiPKYUHkV6E=</dsig:DigestValue>
+        <dsig:DigestValue>YhXDr4ffgJbL7LXSO5egMqqmlXUHvk227a5dAOFUhIc=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="HtmlAgilityPack.dll" size="165376">
-      <assemblyIdentity name="HtmlAgilityPack" version="1.11.24.0" publicKeyToken="BD319B19EAF3B43A" language="neutral" processorArchitecture="msil" />
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="HtmlAgilityPack.dll" size="166912">
+      <assemblyIdentity name="HtmlAgilityPack" version="1.11.32.0" publicKeyToken="BD319B19EAF3B43A" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>e63/adVQdSgRNS1Pe90J6o89uCYvv0YGSFMY7361mzM=</dsig:DigestValue>
+        <dsig:DigestValue>isZPP0/WRdXivtPE0XneBXQgO6AJpT+j2FMQ9HX9z78=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Jvedio.exe" size="1775104">
-      <assemblyIdentity name="Jvedio" version="4.5.6.0" language="neutral" processorArchitecture="msil" />
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Jvedio.exe" size="1820160">
+      <assemblyIdentity name="Jvedio" version="4.5.7.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>BOidpuHtu0Qx1byYZrC0kURLhyrShsMEcAvPa2Mef4I=</dsig:DigestValue>
+        <dsig:DigestValue>jNshHZ6K4u66NLgXNtK3V0DcT01LlErDCUJkMAmtuYQ=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Jvedio.Language.dll" size="91648">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Jvedio.Language.dll" size="93184">
       <assemblyIdentity name="Jvedio.Language" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>yFvCjCMCo2ecsK/RCn5jAN400W4sB4jw+E0N2Un3/N4=</dsig:DigestValue>
+        <dsig:DigestValue>832QRzI2MlZ9czr3jogfi4frtqszpU1LfxnaBUebJtA=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="en-US\Jvedio.Language.resources.dll" size="34816">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="en-US\Jvedio.Language.resources.dll" size="35328">
       <assemblyIdentity name="Jvedio.Language.resources" version="1.0.0.0" language="en-US" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>eXeATmwEoV2kxUyvRb1FVW429YtuYil4emJ6EUoQp8c=</dsig:DigestValue>
+        <dsig:DigestValue>2QixiHbsCJ9+SbeSF0gZ8LuVSa+lcpewwvfY0VLG0JY=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ja-JP\Jvedio.Language.resources.dll" size="40448">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ja-JP\Jvedio.Language.resources.dll" size="40960">
       <assemblyIdentity name="Jvedio.Language.resources" version="1.0.0.0" language="ja-JP" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>IMKcpMYe4gWgFUDZXY6b3kFmpaCtp7HIejCmE/n1Sz4=</dsig:DigestValue>
+        <dsig:DigestValue>ZeytoOwfkm1reHotPp4zSUTjZtkeBvoQzmj9bD0QdMM=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="zh-CN\Jvedio.Language.resources.dll" size="33280">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="zh-CN\Jvedio.Language.resources.dll" size="33792">
       <assemblyIdentity name="Jvedio.Language.resources" version="1.0.0.0" language="zh-CN" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>tQwZsW9ASHMfwQvEdtxdbdWj0GUSh1K96BBQgVI4AQQ=</dsig:DigestValue>
+        <dsig:DigestValue>K/EWATJTyzbBofKTM6m96JWzUyQJXZqP9NC6iEsUvcE=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="LiveCharts.dll" size="152064">
-      <assemblyIdentity name="LiveCharts" version="0.9.7.0" publicKeyToken="0BC1F845D1EBB8DF" language="neutral" processorArchitecture="msil" />
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Jvedio.Style.dll" size="164864">
+      <assemblyIdentity name="Jvedio.Style" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>n8+Jg3tg9pwcUB5M+k0oYIh6/QuPMlgDNn55Wk47yco=</dsig:DigestValue>
+        <dsig:DigestValue>vGZuaWBaYIXu1e7l0lg9UBQgenFthdWK6PlaDnmLm4M=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="LiveCharts.Wpf.dll" size="217600">
-      <assemblyIdentity name="LiveCharts.Wpf" version="0.9.7.0" publicKeyToken="0BC1F845D1EBB8DF" language="neutral" processorArchitecture="msil" />
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Jvedio.Utils.dll" size="45568">
+      <assemblyIdentity name="Jvedio.Utils" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>G9uxtcGlBlPlwmFh6bfAPtxRhyGm4Q6hgKhASdlnEGs=</dsig:DigestValue>
+        <dsig:DigestValue>EDfzYkc4fdSQzqbkf19jHacIUxLFpHp4q/SUyny6CQ8=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -410,18 +446,6 @@
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
         <dsig:DigestValue>5+sLC12CVGo56y9qZ/OOpkbU9cbwKhpZsYCxWkxtKvk=</dsig:DigestValue>
-      </hash>
-    </dependentAssembly>
-  </dependency>
-  <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Splat.dll" size="99248">
-      <assemblyIdentity name="Splat" version="9.4.0.0" language="neutral" processorArchitecture="msil" />
-      <hash>
-        <dsig:Transforms>
-          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
-        </dsig:Transforms>
-        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>MyjqIcjPXkFilm51hyKgz+ThwgqL7tPu3zhKgGcBwfo=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -533,30 +557,6 @@
       </hash>
     </dependentAssembly>
   </dependency>
-  <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="VirtualizingWrapPanel.dll" size="38400">
-      <assemblyIdentity name="VirtualizingWrapPanel" version="1.5.3.0" language="neutral" processorArchitecture="msil" />
-      <hash>
-        <dsig:Transforms>
-          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
-        </dsig:Transforms>
-        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>/yAaORm5RRcDsoNQZa44Qr4AVDv4HtNWPjCneaq2rcI=</dsig:DigestValue>
-      </hash>
-    </dependentAssembly>
-  </dependency>
-  <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="WpfAnimatedGif.dll" size="45568">
-      <assemblyIdentity name="WpfAnimatedGif" version="1.0.0.0" publicKeyToken="9E7CD3B544A090DC" language="neutral" processorArchitecture="msil" />
-      <hash>
-        <dsig:Transforms>
-          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
-        </dsig:Transforms>
-        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>xOTFPx8R1pMX8hRMu07YU/a0dR41A3EdKw7hl1WViSY=</dsig:DigestValue>
-      </hash>
-    </dependentAssembly>
-  </dependency>
   <file name="Data\x64\SQLite.Interop.dll" size="1638912">
     <hash>
       <dsig:Transforms>
@@ -575,13 +575,13 @@
       <dsig:DigestValue>SHABiBPv+aWwUARMXrY5uz5TbsHNOtA9o4m4MhbA9NU=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="Jvedio.exe.config" size="18172">
+  <file name="Jvedio.exe.config" size="18459">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>KZdrRhFjKi9/eEq4mhiEpuQdlKaN70nHSjgEFRwIDYA=</dsig:DigestValue>
+      <dsig:DigestValue>utg82wRC/+4hoFUtzjrDPk8MxpoyiFKPxeu4dU43SgU=</dsig:DigestValue>
     </hash>
   </file>
   <file name="Reference\MediaInfo.dll" size="3032984">

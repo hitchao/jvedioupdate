@@ -1,37 +1,34 @@
-﻿4.5.6.0
+﻿4.5.7.0
 --中文--
-识别码150904-YUKO
-翻译闪退
-磁力自动备份
-复制文件显示成功，却无法粘贴
-更新时父目录有空格导致更新失败
-喜爱、同类别影片无法筛选问题
-增加侧边栏筛选器
-优化刷选器显示
-优化界面显示颜色
-优化命名
-修复切换皮肤后颜色未修正问题
-背景图优化
-优化文件夹选择对话框
+详情页标签位置优化
+详情页标签优化
+详情页标签可搜索
+详情页标签可排序
+详情页界面进度条背景
+新增影片时可自动添加前缀
+主界面按住 Shift 多选
+修复欧美刮削问题
+修复C-1234无法导入的问题
+自定义识别码的正则表达式
 --English--
-Copy file shows success, but cannot paste
-The update failed due to a space in the parent directory
-Like, the same category of movies can not screen the problem
-Added sidebar filters
-Optimized brush selector display
-Optimize the interface display color
-Optimization of naming
-Fixed uncorrected color after switching skin
-Background image optimization
-Optimize the folder selection dialog box
+Detail page label location optimization
+Detail page label optimization
+Details page tabs are searchable
+Detail page labels can be sorted
+Details page interface progress bar background
+Prefixes can be added automatically when new movies are added
+On the main screen, hold Shift to select multiple
+Repair scraping problems in Europe and America
+Fixed an issue where C-1234 could not be imported
+Regular expressions for custom identifiers
 --日本語--
-コピーしたファイルは成功しているが、貼り付けられない
-更新時に親ディレクトリにスペースがあると、更新に失敗します
-好き、同じジャンルの映画は選べない
-サイドバーのフィルタを追加します
-ブラシセレクタの表示を最適化
-インターフェースの表示色を最適化する
-ネーミングの最適化
-スキン切り替え後の色が修正されない不具合を修正しました
-背景図の最適化
-フォルダ選択ダイアログを最適化します
+詳細ページのタブ位置を最適化
+詳細ページのタブ最適化
+詳細ページタブで検索可能です
+詳細ページのラベルは並べ替え可能です
+詳細ページ画面プログレスバー背景
+動画が追加されると自動的に接頭辞が付加される
+メイン画面[shift]を押したまま複数選択します
+欧米の削り問題を修復する
+c-1234が導入できない問題を修正します
+識別子の正規表現をカスタマイズする
