@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Servers>
+  <Server Name="Bus">
+    <Url>
+    </Url>
+    <IsEnable>
+    </IsEnable>
+    <LastRefreshDate>
+    </LastRefreshDate>
+    <Cookie>
+    </Cookie>
+  </Server>
+  <Server Name="BusEurope">
+    <Url>
+    </Url>
+    <IsEnable>
+    </IsEnable>
+    <LastRefreshDate>
+    </LastRefreshDate>
+    <Cookie>
+    </Cookie>
+  </Server>
+  <Server Name="Library">
+    <Url>
+    </Url>
+    <IsEnable>
+    </IsEnable>
+    <LastRefreshDate>
+    </LastRefreshDate>
+    <Cookie>
+    </Cookie>
+  </Server>
+  <Server Name="FC2">
+    <Url>
+    </Url>
+    <IsEnable>
+    </IsEnable>
+    <LastRefreshDate>
+    </LastRefreshDate>
+    <Cookie>
+    </Cookie>
+  </Server>
+  <Server Name="Jav321">
+    <Url>
+    </Url>
+    <IsEnable>
+    </IsEnable>
+    <LastRefreshDate>
+    </LastRefreshDate>
+    <Cookie>
+    </Cookie>
+  </Server>
+  <Server Name="DMM">
+    <Url>
+    </Url>
+    <IsEnable>
+    </IsEnable>
+    <LastRefreshDate>
+    </LastRefreshDate>
+    <Cookie>
+    </Cookie>
+  </Server>
+  <Server Name="DB">
+    <Url>
+    </Url>
+    <IsEnable>
+    </IsEnable>
+    <LastRefreshDate>
+    </LastRefreshDate>
+    <Cookie>
+    </Cookie>
+  </Server>
+  <Server Name="MOO">
+    <Url>
+    </Url>
+    <IsEnable>
+    </IsEnable>
+    <LastRefreshDate>
+    </LastRefreshDate>
+    <Cookie>
+    </Cookie>
+  </Server>
+</Servers>

@@ -1,34 +1,73 @@
-﻿4.5.7.0
+﻿4.6.0.0
 --中文--
-详情页标签位置优化
-详情页标签优化
-详情页标签可搜索
-详情页标签可排序
-详情页界面进度条背景
-新增影片时可自动添加前缀
-主界面按住 Shift 多选
-修复欧美刮削问题
-修复C-1234无法导入的问题
-自定义识别码的正则表达式
+修复：更新的一些问题
+修复：选择图片保存位置问题
+修复：启动界面的一些问题
+优化：删除不存在的影片速度大幅提高
+功能：演员多选
+功能：演员选择后可取消收藏
+优化：导演系列过长问题
+优化：详情页视频类型修改
+优化：启动时进度条归零
+优化：工具栏宽度过小时遮挡
+功能：翻译自动选择语言
+优化：翻译提示是否强制翻译
+优化：改数据库名称后，切换问题
+功能：数据库复制：复制所有内容
+功能：选择标签时排序不取消勾选
+优化：详情页预览图取消下载后仍然显示
+优化：预览图下载间隔
+优化：加载该演员的其他作品
+功能：同步时可点开详情
+优化：所有按钮鼠标为手型
+功能：打开指定网址 => bus, db, library
+修复：按下 tab 键导致闪退的问题
+优化：文件读取、保存
 --English--
-Detail page label location optimization
-Detail page label optimization
-Details page tabs are searchable
-Detail page labels can be sorted
-Details page interface progress bar background
-Prefixes can be added automatically when new movies are added
-On the main screen, hold Shift to select multiple
-Repair scraping problems in Europe and America
-Fixed an issue where C-1234 could not be imported
-Regular expressions for custom identifiers
+Fix: Updated some issues
+Fix: Select image save location issue
+Fixed: some issues with the startup interface
+Optimization: Deleting non-existent movies is much faster
+Function: Multiple actor selection
+Function: Cancel collection after actor selection
+Optimization: Director series is too long
+Optimization: Details page video type modification
+Optimization: The progress bar returns to zero at startup
+Optimization: toolbar width is too small occlusion
+Function: Translation automatically select language
+Optimization: Translation prompt whether to force translation
+Optimization: After changing the database name, switch the problem
+Function: Database replication: Copy everything
+Function: When selecting labels, sorting is not unchecked
+Optimization: Details page preview still shows after undownloading
+Optimization: Preview image download interval
+Optimization: Loads the actor's other works
+Function: When synchronizing, you can click on the details
+Optimization: All button mice are hand - shaped
+Function: Open the specified URL = >;bus, db, library
+Fixed: Flash back when pressing the TAB key
+Optimization: file read, save
 --日本語--
-詳細ページのタブ位置を最適化
-詳細ページのタブ最適化
-詳細ページタブで検索可能です
-詳細ページのラベルは並べ替え可能です
-詳細ページ画面プログレスバー背景
-動画が追加されると自動的に接頭辞が付加される
-メイン画面[shift]を押したまま複数選択します
-欧米の削り問題を修復する
-c-1234が導入できない問題を修正します
-識別子の正規表現をカスタマイズする
+修正:更新されたいくつかの問題
+修正:画像の保存場所を選択する問題
+修正:起動画面のいくつかの問題
+最適化:存在しないムービーの削除速度が大幅に向上
+機能:俳優の多選
+机能:出演者選択后にお気に入りをキャンセルできる
+最佳答案:監督シリーズが長すぎる問題
+最適化:詳細ページのビデオタイプを修正
+最適化:起動時にプログレスバーがゼロになる
+最適化:ツールバーの幅が小さいと遮蔽されます
+机能:翻訳自働言語選択
+最適化:翻訳を強制するかどうかを提示する
+最適化:データベース名を変更した後、問題を切り替える
+机能:データベースコピー:すべてのコンテンツをコピーします
+机能:タブ選択時にチェックを外しずに並べ替える
+最適化:詳細ページのプレビュー図はダウンロードをキャンセルしても表示されます
+最適化:プレビューグラフのダウンロード間隔
+最適化:その俳優の他の作品をロードします
+机能:同期時に詳細を開くことができます
+最適化:すべてのボタンマウスを手型にする
+机能:指定urlを開く=&gt;バス、db、図書館
+[tab]キーを押すとフラッシュバックする問題を修正しました
+最適化:ファイルの読み込み、保存
