@@ -1,0 +1,13 @@
+﻿4.6.1.1
+--中文--
+修复：db的一些问题
+功能：自定义界面的颜色和字体
+优化：减少闪退
+--English--
+Fix: Some issues with DB
+Function: Customize the colors and fonts of the interface
+Optimization: Reduces flashbacks
+--日本語--
+修正:dbのいくつかの問題
+機能:インターフェースの色とフォントをカスタマイズする
+最適化:フラッシュバックを減らす

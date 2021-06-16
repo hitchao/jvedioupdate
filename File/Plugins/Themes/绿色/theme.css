@@ -1,0 +1,81 @@
+.Title .Main{
+	background:#006e2e;
+	color:#100000;
+	font-size: 15px;
+}
+.Title .Sub{
+	background:#654321;
+	color:#745743;
+	font-size:14px;
+}
+
+
+.Side .Main{
+	background:#035000;
+	color:#000000;
+	font-size:15px;
+}
+.Side .Sub{
+	background:#000000;
+	color:#000000;
+	font-size:14px;
+}
+
+
+.Display .Main{
+	background:#00aa47;
+	color:#000000;
+	font-size:15px;
+}
+.Display .Sub{
+	background:#000000;
+	color:#000000;
+	font-size:14px;
+}
+
+
+.Tools .Main{
+	background:#55ff5e;
+	color:#000000;
+	font-size:15px;
+}
+.Tools .Sub{
+	background:#000000;
+	color:#000000;
+	font-size:14px;
+}
+
+
+.Search .Main{
+	background:#87CEEB;
+	color:#0090d3;
+	font-size:15px;
+}
+.Search .Sub{
+	background:#000000;
+	color:#0090d3;
+	font-size:14px;
+}
+
+.Menu .Main{
+	background:#0b9e3c;
+	color:#000000;
+	font-size:15px;
+}
+.Menu .Sub{
+	background:#000000;
+	color:#000000;
+	font-size:14px;
+}
+
+.Global .Main{
+	background:#FFFFFF;
+	color:#00fff2;
+	font-size:15px;
+}
+.Global .Sub{
+	background:#000000;
+	color:#000000;
+	font-size:14px;
+}
+
