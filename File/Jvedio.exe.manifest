@@ -354,14 +354,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Jvedio.exe" size="2179584">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Jvedio.exe" size="2180096">
       <assemblyIdentity name="Jvedio" version="5.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>lPS+6rToUUES5ndr5gBlQth3cmiepG50Q5dwJliPSqo=</dsig:DigestValue>
+        <dsig:DigestValue>Or4a/dW7+zIDNUj4KI9us0Pj544ItzQVlHu4LTEYkPw=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -385,7 +385,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>EMdyD6sh1DDmXLknDoVE6fpsCvhjJT+xJfueprZGAn8=</dsig:DigestValue>
+        <dsig:DigestValue>WTIlU5CRULKVf2IsWEwxUaaNAs4HmHLe6TiMN2X/y3M=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -397,7 +397,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>3lxgbrxNzlTzGyXJHadjZCVgKJ0jejyo/Cm3Vx2i4zk=</dsig:DigestValue>
+        <dsig:DigestValue>jvncmxa1UF+36PsffcQW5TG9yHfGTqIU+AKXpgyb31c=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -409,7 +409,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>XmCBxyG+Ddr59UwXLHDWikkFTb5iJ03ZZBSW4+oGv38=</dsig:DigestValue>
+        <dsig:DigestValue>B4oNEgioejmbqcD8sp+sHtOdDKNdhx1X/3yFCDAYAPc=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
