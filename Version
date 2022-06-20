@@ -1,6 +1,7 @@
 ﻿5.0.0.0
 --中文--
 Jvedio 5.0.0.0 公测版
+2022-06-21
 新增功能：
 【影片关联】
 【任务调度】
@@ -15,6 +16,7 @@ Jvedio 5.0.0.0 公测版
 如果升级失败，可以将目录下 data/用户名/olddata 目录下所有目录和文件复制回 4.6.1.1 版本
 --English--
 Jvedio 5.0.0.0 public beta
+2022-06-21
 New features:
 [Film Association]
 [Task Scheduling]
@@ -29,6 +31,7 @@ Scratch is not available in version 5.0, please upgrade with caution
 If the upgrade fails, copy all directories and files in the data/ username /olddata directory back to version 4.6.1.1
 --日本語--
 Jvedio 5.0.0.0公開ベータ版
+2022-06-21
 新機能:
 【影片関連】
 【タスクスケジュール】
