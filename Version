@@ -1,13 +1,43 @@
-﻿4.6.1.1
+﻿5.0.0.0
 --中文--
-修复：db的一些问题
-功能：自定义界面的颜色和字体
-优化：减少闪退
+Jvedio 5.0.0.0 公测版
+新增功能：
+【影片关联】
+【任务调度】
+【读取影片所在目录的图片】
+【优化界面显示，提高流畅度】
+【可导入所有视频】
+【插件化管理】
+【自定义多彩标记】
+注意：
+升级前请备份目录 DataBase
+5.0 版本暂时未推出刮削功能，请谨慎升级
+如果升级失败，可以将目录下 data/用户名/olddata 目录下所有目录和文件复制回 4.6.1.1 版本
 --English--
-Fix: Some issues with DB
-Function: Customize the colors and fonts of the interface
-Optimization: Reduces flashbacks
+Jvedio 5.0.0.0 public beta
+New features:
+[Film Association]
+[Task Scheduling]
+[Read the picture of the directory where the movie is located]
+[Optimize interface display to improve fluency]
+[Can import all videos]
+[Plug-in management]
+【 Custom colorful tags 】
+Note:
+Before the upgrade, back up directory DataBase
+Scratch is not available in version 5.0, please upgrade with caution
+If the upgrade fails, copy all directories and files in the data/ username /olddata directory back to version 4.6.1.1
 --日本語--
-修正:dbのいくつかの問題
-機能:インターフェースの色とフォントをカスタマイズする
-最適化:フラッシュバックを減らす
+Jvedio 5.0.0.0公開ベータ版
+新機能:
+【影片関連】
+【タスクスケジュール】
+【映画が掲載されたカタログの画像を読み取る】
+【画面表示を最適化し、滑らかさを向上】
+【すべての動画を導入可能】
+【プラグイン化管理】
+【カスタム多彩マーク】
+注意:
+アップデート前にディレクトリDataBaseをバックアップしてください
+バージョン5.0は削削机能を出していないので、慎重にアップグレードしてください
+アップデートに失敗した場合、ディレクトリ下のdata/ユーザー名/olddataディレクトリ下のすべてのディレクトリとファイルをコピーしてバージョン4.6.1.1に戻すことができます。

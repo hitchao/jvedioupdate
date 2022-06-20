@@ -2,8 +2,8 @@
 	"LatestVersion":"4.6.1.1",
     "ReleaseDate":"2022-02-14",
     "ReleaseNote":{
-        "zh-CN":"修复：db的一些问题\r\n功能：自定义界面的颜色和字体\r\n优化：减少闪退",
-        "en-US":"Fix: Some issues with DB\r\n Function: Customize the colors and fonts of the interface\r\n Optimization: Reduces flashbacks\r\n",
-        "ja-JP":"修正:dbのいくつかの問題\r\n 機能:インターフェースの色とフォントをカスタマイズする\r\n 最適化:フラッシュバックを減らす\r\n"
+        "zh-CN":"Jvedio 5.0.0.0 公测版\r\n 新增功能： \r\n 【影片关联】\r\n 【任务调度】\r\n 【读取影片所在目录的图片】 \r\n 【优化界面显示，提高流畅度】\r\n 【可导入所有视频】 \r\n 【插件化管理】 \r\n 【自定义多彩标记】 \r\n 注意： \r\n 升级前请备份目录 DataBase \r\n 5.0 版本暂时未推出刮削功能，请谨慎升级\r\n 如果升级失败，可以将目录下 data/用户名/olddata 目录下所有目录和文件复制回4.6.1.1 版本\r\n ",
+        "en-US":"",
+        "ja-JP":""
     }
 }
