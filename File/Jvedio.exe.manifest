@@ -73,7 +73,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>BjzvaSrt3cjuOmojaMw1sQGDJD0NdjI/o80jvUaPXcU=</dsig:DigestValue>
+        <dsig:DigestValue>nrxCMepX3ulFPiFJEQq7EHg52mnLWEMVzexlzKQD2E8=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -354,14 +354,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Jvedio.exe" size="2180096">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Jvedio.exe" size="2185728">
       <assemblyIdentity name="Jvedio" version="5.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>toy55Hycn8EpUOYlGVXf9L7+q9i+kt9bF4CYwAMwCZY=</dsig:DigestValue>
+        <dsig:DigestValue>XOJmgP5z+o570F4ulOlnidiPuXuet1HHwEUzxO03X50=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -385,7 +385,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>jG0dp1YZcdOaI02q4g8QEDCwLZpZZZUDCHyd6HvyuZE=</dsig:DigestValue>
+        <dsig:DigestValue>3vokv1eZs+1MMzLJFlUBt0PDm+SreBUosU9FkvvMteo=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -397,7 +397,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>SiuHrnfCIb2vY56HORyc3xaJZ0EKn1fJF2NtrMGoMx4=</dsig:DigestValue>
+        <dsig:DigestValue>PFCBd/WorMJLGXH8FFfZSO8bAfOZh0ZVjroJaotP/Xo=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -409,7 +409,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>65rSl6SQzHqYFDHRjeHECGHkCbQueaxaH45MZWfmZtI=</dsig:DigestValue>
+        <dsig:DigestValue>pjRs6HmmmkP9uK0buw9JXn7jXnzjabb3VkK9mIOZsSE=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -878,7 +878,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>BjzvaSrt3cjuOmojaMw1sQGDJD0NdjI/o80jvUaPXcU=</dsig:DigestValue>
+      <dsig:DigestValue>nrxCMepX3ulFPiFJEQq7EHg52mnLWEMVzexlzKQD2E8=</dsig:DigestValue>
     </hash>
   </file>
   <file name="Reference\CommonNet.dll" size="19456">
