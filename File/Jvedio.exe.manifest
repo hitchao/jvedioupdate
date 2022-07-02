@@ -66,14 +66,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ChaoControls.Style.dll" size="403968">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ChaoControls.Style.dll" size="403456">
       <assemblyIdentity name="ChaoControls.Style" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>sSt36JIcDYrW75KpQeukOy9nAx9sQDG45fqIVomI4ds=</dsig:DigestValue>
+        <dsig:DigestValue>4uxNLX/gY4lBr+EAQbxqaKUwMawKcjC9alEZ3aJjAmg=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -354,14 +354,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Jvedio.exe" size="2189312">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Jvedio.exe" size="2191872">
       <assemblyIdentity name="Jvedio" version="5.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>/pCc+MMNfocuc36v4GPpXz9PeZitlsgycGOhJe3C8JQ=</dsig:DigestValue>
+        <dsig:DigestValue>VZYgeH5u3q0rvow+o0/rxAQFsR+hHfOyQOo60+aQesU=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -385,7 +385,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>aphuX6qjCqklduEVvQZTXb3S8CDEfM0tqzntF0k+iV4=</dsig:DigestValue>
+        <dsig:DigestValue>HpmyB2njKhBBFa0rxEL5zDB0BTk6clThjyv2WT9aS5Y=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -397,7 +397,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>DyN1/vnHKET7XsvE9sojpjlztS/j0Ca5nikexVlu1Q0=</dsig:DigestValue>
+        <dsig:DigestValue>s8rLKMzf6JQQPySHIPOZcvpoVS7DCXVMe7hTjevKcsI=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -409,7 +409,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>VldrKlFh78Fbg7nbdMtH5vUwfYfnVsyr03CdO8q6bzo=</dsig:DigestValue>
+        <dsig:DigestValue>18P+3qmfTo4KurfUuLlYgXZ+5V8U9+tCUge7aEHs1gQ=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -872,13 +872,13 @@
       <dsig:DigestValue>vt7A6A833bDgxCcqwslQOf9CjqxNqBtBWp73uLVcD14=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="Reference\ChaoControls.Style.dll" size="403968">
+  <file name="Reference\ChaoControls.Style.dll" size="403456">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>sSt36JIcDYrW75KpQeukOy9nAx9sQDG45fqIVomI4ds=</dsig:DigestValue>
+      <dsig:DigestValue>4uxNLX/gY4lBr+EAQbxqaKUwMawKcjC9alEZ3aJjAmg=</dsig:DigestValue>
     </hash>
   </file>
   <file name="Reference\CommonNet.dll" size="19456">

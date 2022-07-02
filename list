@@ -1,5 +1,5 @@
 BouncyCastle.Crypto.dll afb010d6aa754fe0522afc22cd561053
-ChaoControls.Style.dll e19ba3488e47d30d5bb57734fe38d381
+ChaoControls.Style.dll 5800d57181d6bea447692cfc66467751
 CommonNet.dll c800031b1356b5b8b9b0c23bf76162f2
 CommonServiceLocator.dll 998e27f9195e5acd40707bc653fde6c1
 DynamicData.dll f6392ffcdd66abdd0abe0a2544bba44f
@@ -18,12 +18,12 @@ Google.Protobuf.dll 6c9e69926ea4423764424e9b5f9e2896
 Google.Protobuf.pdb 70772fcaa7d26fbf88ac579266eaab2a
 HandyControl.dll ab098a198f7555afd9fa7ae3a676a993
 HtmlAgilityPack.dll 297df0efac47e4742a2ef28c77d437c1
-Jvedio.exe c501e673fee64e9059eabf19400b5002
+Jvedio.exe d8060984aaf74e39b4981d277ac971dd
 Jvedio.exe.config 5a9d1c44d92cd425c4a9fee38ee9299c
-Jvedio.exe.manifest 313bb97f1453fd6b47675c799f24c23c
+Jvedio.exe.manifest 0dc842d69f277654b45ea5e25045673e
 Jvedio.Language.dll bd1ba17c15863636dfbf5a3f5f89ab3a
 Jvedio.Language.pdb 2c09d6afa28f2bfe12c445e7f59d3011
-Jvedio.pdb 93583cc90ef3eb71e24820944dab7ebe
+Jvedio.pdb c0508dccf08e4749cd73962a76c3394d
 Jvedio.Style.dll 218f849f662212f13253eb18365c2785
 Jvedio.Style.dll.config 9dbad5517b46f41dbb0d8780b20ab87e
 Jvedio.Style.pdb 34da59d48476c9276700312f17daa8f1
@@ -70,10 +70,10 @@ WpfAnimatedGif.dll f99c1a128e3655243c8b0a839a4042bc
 ZstdNet.dll 5c451248a1d0304c9379c5ba3805720b
 ca-ES\HandyControl.resources.dll c8a0f8d322d7e4952c54564b9d3c3faa
 en\HandyControl.resources.dll 217e57de9a7f0aecfe0eaa46cf151664
-en-US\Jvedio.Language.resources.dll e0d18baf533b077b43f02cc6a456e405
+en-US\Jvedio.Language.resources.dll 2bd1699b9c14be1881ca9b163408585e
 fa\HandyControl.resources.dll 36958922ab55c121d531c30f77a26b6b
 fr\HandyControl.resources.dll 65e84eff761985966c7a59e5a29c4750
-ja-JP\Jvedio.Language.resources.dll 440909ce62219d66cfcd8f13c825b537
+ja-JP\Jvedio.Language.resources.dll 8a258c1816e339773052d2a57301dd0c
 ko-KR\HandyControl.resources.dll c5e7e47731f99df0ca484337a3b973dc
 pl\HandyControl.resources.dll 46905b62d52db132e3f609da03c3fe72
 plugins\crawlers\CommonNet.dll c800031b1356b5b8b9b0c23bf76162f2
@@ -83,4 +83,4 @@ ru\HandyControl.resources.dll e886c310a41bee7429eb223b62dff234
 tr\HandyControl.resources.dll 4e7abecad8e83cafe0e0de460774ff2f
 x64\SQLite.Interop.dll 7de130ce491d63ecb3920687a84df54a
 x86\SQLite.Interop.dll 1d5041dc5a86b787d9701b78a9e0b121
-zh-CN\Jvedio.Language.resources.dll 71c5f0cffe226e613860ce52127fb2a1
+zh-CN\Jvedio.Language.resources.dll e552695121d8e45acc51513903552351
