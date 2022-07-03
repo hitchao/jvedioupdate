@@ -354,14 +354,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Jvedio.exe" size="2191872">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Jvedio.exe" size="2200064">
       <assemblyIdentity name="Jvedio" version="5.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>VZYgeH5u3q0rvow+o0/rxAQFsR+hHfOyQOo60+aQesU=</dsig:DigestValue>
+        <dsig:DigestValue>AQSUJy9EhpsD+4TEvbsO+PGqdvpaK9+rxzsxNZ+7dpE=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -385,7 +385,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>HpmyB2njKhBBFa0rxEL5zDB0BTk6clThjyv2WT9aS5Y=</dsig:DigestValue>
+        <dsig:DigestValue>LA6Q4ASyxmVYQ/ChYARpurtyyXIG/OaqtmqfCn78J78=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -397,7 +397,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>s8rLKMzf6JQQPySHIPOZcvpoVS7DCXVMe7hTjevKcsI=</dsig:DigestValue>
+        <dsig:DigestValue>6lfkwx9v59EJ/rG2e+pSMKet7pz79h73Ecl4ABhgHi0=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -409,7 +409,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>18P+3qmfTo4KurfUuLlYgXZ+5V8U9+tCUge7aEHs1gQ=</dsig:DigestValue>
+        <dsig:DigestValue>luJidhk7kBBbzDRI9arIKXrMvhzTX/JBmLtX6bb7YRk=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -433,7 +433,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>gMWK8G2hxNkBIA26fcz3KLvla5y0zixYvcp/zaoUHfk=</dsig:DigestValue>
+        <dsig:DigestValue>TXv5Pia/AgcS+CZNJiKi3bWj3SWUnJ1VW7fDpRObMU8=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -791,13 +791,13 @@
       <dsig:DigestValue>Ixwu3bjT1cfrLRxUPah2/SKpRd/3gW6nprZBRWJGIL4=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="Data\Sql\app_datas.sql" size="7463">
+  <file name="Data\Sql\app_datas.sql" size="7826">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>S1c3DFeuFEuVFcR/UWdqAIa2w2leevMn5SXVEiprFSA=</dsig:DigestValue>
+      <dsig:DigestValue>P48OFK9IsqMX8DcJaaTSbtBXLTctRlQXQfKNsFDN0hs=</dsig:DigestValue>
     </hash>
   </file>
   <file name="Data\Sql\single_db_actor.sql" size="1362">
