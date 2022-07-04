@@ -18,12 +18,12 @@ Google.Protobuf.dll 6c9e69926ea4423764424e9b5f9e2896
 Google.Protobuf.pdb 70772fcaa7d26fbf88ac579266eaab2a
 HandyControl.dll ab098a198f7555afd9fa7ae3a676a993
 HtmlAgilityPack.dll 297df0efac47e4742a2ef28c77d437c1
-Jvedio.exe 881cb8d3c89fc0c8215a823fbb26c14c
+Jvedio.exe 17a2c5d149ebe7269aaff37c61c57762
 Jvedio.exe.config 5a9d1c44d92cd425c4a9fee38ee9299c
-Jvedio.exe.manifest 277340c624870d6c90d8ed15a10a8767
+Jvedio.exe.manifest 8fa140a61cc0161ef60931e273fd4d0f
 Jvedio.Language.dll bd1ba17c15863636dfbf5a3f5f89ab3a
 Jvedio.Language.pdb 2c09d6afa28f2bfe12c445e7f59d3011
-Jvedio.pdb 8da35b176968f2754034e052dcb70626
+Jvedio.pdb ca8fa886d8950b6dbdf98a0a08e107d2
 Jvedio.Style.dll 218f849f662212f13253eb18365c2785
 Jvedio.Style.dll.config 9dbad5517b46f41dbb0d8780b20ab87e
 Jvedio.Style.pdb 34da59d48476c9276700312f17daa8f1
@@ -70,10 +70,10 @@ WpfAnimatedGif.dll f99c1a128e3655243c8b0a839a4042bc
 ZstdNet.dll 5c451248a1d0304c9379c5ba3805720b
 ca-ES\HandyControl.resources.dll c8a0f8d322d7e4952c54564b9d3c3faa
 en\HandyControl.resources.dll 217e57de9a7f0aecfe0eaa46cf151664
-en-US\Jvedio.Language.resources.dll adba71458849cdd3038ceb5e676f7f99
+en-US\Jvedio.Language.resources.dll f5d939474784624528842c4ef5998464
 fa\HandyControl.resources.dll 36958922ab55c121d531c30f77a26b6b
 fr\HandyControl.resources.dll 65e84eff761985966c7a59e5a29c4750
-ja-JP\Jvedio.Language.resources.dll 7682ae8663366cd949e9a72e9915eb1d
+ja-JP\Jvedio.Language.resources.dll 8d280fc08ae8b07a6b94aaae36c00634
 ko-KR\HandyControl.resources.dll c5e7e47731f99df0ca484337a3b973dc
 pl\HandyControl.resources.dll 46905b62d52db132e3f609da03c3fe72
 plugins\crawlers\CommonNet.dll c800031b1356b5b8b9b0c23bf76162f2
@@ -83,4 +83,4 @@ ru\HandyControl.resources.dll e886c310a41bee7429eb223b62dff234
 tr\HandyControl.resources.dll 4e7abecad8e83cafe0e0de460774ff2f
 x64\SQLite.Interop.dll 7de130ce491d63ecb3920687a84df54a
 x86\SQLite.Interop.dll 1d5041dc5a86b787d9701b78a9e0b121
-zh-CN\Jvedio.Language.resources.dll 4019f78a8cd65fdbdc5963a603d2530f
+zh-CN\Jvedio.Language.resources.dll e98455e8df8ea10adf12742e408ce1dc
