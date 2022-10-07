@@ -66,26 +66,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ChaoControls.Style.dll" size="409088">
-      <assemblyIdentity name="ChaoControls.Style" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
-      <hash>
-        <dsig:Transforms>
-          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
-        </dsig:Transforms>
-        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>iO/oMhCCqomiQZU2RKoOZktxQuePtLRwZ9sEtFffxyw=</dsig:DigestValue>
-      </hash>
-    </dependentAssembly>
-  </dependency>
-  <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="CommonNet.dll" size="19456">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="CommonNet.dll" size="22528">
       <assemblyIdentity name="CommonNet" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>kqqjMV9aJJMd/iVRPTaOtHZByEix9YAJRnrJKWeMrxI=</dsig:DigestValue>
+        <dsig:DigestValue>pNncsJiOjvnE6CXAHzAyBXrWV3toEtI6dlZb17jyV7g=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -114,26 +102,26 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="EntityFramework.dll" size="4988280">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="EntityFramework.dll" size="4991352">
       <assemblyIdentity name="EntityFramework" version="6.0.0.0" publicKeyToken="B77A5C561934E089" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>02FemIMUOJ0B3vMP62rh37pXY1ylD58dJeBNfcbCkYk=</dsig:DigestValue>
+        <dsig:DigestValue>/0K8pwRgXhh6u0VSOGixUSjWrxworUCkV51QfTSpU7I=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="EntityFramework.SqlServer.dll" size="591736">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="EntityFramework.SqlServer.dll" size="591752">
       <assemblyIdentity name="EntityFramework.SqlServer" version="6.0.0.0" publicKeyToken="B77A5C561934E089" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>vXgL8O3AegGuOBvdh0qH8BQ6x9HTpcdL/4cNT0avJYc=</dsig:DigestValue>
+        <dsig:DigestValue>qWDdTS8PN7PAn/uVZ8MkJrh5ExDX65NcBMgZw9Rr1J4=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -354,86 +342,26 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Jvedio.exe" size="2283520">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Jvedio.exe" size="2056192">
       <assemblyIdentity name="Jvedio" version="5.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>CU9yRCb6GZzhnz3GRRnP+WoLlplBxaZHMhR58m6HmYU=</dsig:DigestValue>
+        <dsig:DigestValue>CtK0Ly9FkgXB601lS0gYmd+jm1dofCi/WSaEnQhVRpw=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Jvedio.Language.dll" size="94720">
-      <assemblyIdentity name="Jvedio.Language" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
-      <hash>
-        <dsig:Transforms>
-          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
-        </dsig:Transforms>
-        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>i3o3my9mtXKmMBHT89qVgEV16mUNv8OpdvRs7KS3dao=</dsig:DigestValue>
-      </hash>
-    </dependentAssembly>
-  </dependency>
-  <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="en-US\Jvedio.Language.resources.dll" size="35840">
-      <assemblyIdentity name="Jvedio.Language.resources" version="1.0.0.0" language="en-US" processorArchitecture="msil" />
-      <hash>
-        <dsig:Transforms>
-          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
-        </dsig:Transforms>
-        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>stmWiZV2xIi7v0pVeszBFHQwmMjaDaBRppiQDUMMme4=</dsig:DigestValue>
-      </hash>
-    </dependentAssembly>
-  </dependency>
-  <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ja-JP\Jvedio.Language.resources.dll" size="41472">
-      <assemblyIdentity name="Jvedio.Language.resources" version="1.0.0.0" language="ja-JP" processorArchitecture="msil" />
-      <hash>
-        <dsig:Transforms>
-          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
-        </dsig:Transforms>
-        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>7W675f5KYZMw45nF41rbS/Rc1s6FZJiOiZxmh3XAIq4=</dsig:DigestValue>
-      </hash>
-    </dependentAssembly>
-  </dependency>
-  <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="zh-CN\Jvedio.Language.resources.dll" size="34304">
-      <assemblyIdentity name="Jvedio.Language.resources" version="1.0.0.0" language="zh-CN" processorArchitecture="msil" />
-      <hash>
-        <dsig:Transforms>
-          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
-        </dsig:Transforms>
-        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>250MG7n0ax6dPc/CUnwMZZkw5EDpHUouHKA8/HHsRvk=</dsig:DigestValue>
-      </hash>
-    </dependentAssembly>
-  </dependency>
-  <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Jvedio.Style.dll" size="100352">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Jvedio.Style.dll" size="29184">
       <assemblyIdentity name="Jvedio.Style" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>ctNgmXVMRmi3YuPs1/JPRC6sNdyJBjg/layCAqMEM3s=</dsig:DigestValue>
-      </hash>
-    </dependentAssembly>
-  </dependency>
-  <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Jvedio.Utils.dll" size="26624">
-      <assemblyIdentity name="Jvedio.Utils" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
-      <hash>
-        <dsig:Transforms>
-          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
-        </dsig:Transforms>
-        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>eQWGHWfoLKAi+Css2TYTw73ma33uDxTr38nG/wI2Fro=</dsig:DigestValue>
+        <dsig:DigestValue>V0q9xAYSkZWfUcCWPM+YRR6OT9cYuKLoPno0vFwsYjo=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -594,6 +522,30 @@
     </dependentAssembly>
   </dependency>
   <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="SuperControls.Style.dll" size="608768">
+      <assemblyIdentity name="SuperControls.Style" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>wA2jxZq620WcWe/2DyBKzWckL7ZZE9l1NMbkci3qTR4=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="SuperUtils.dll" size="95744">
+      <assemblyIdentity name="SuperUtils" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>qTaUcj0Tftk3zLoakiGfAmqoX7EOa54N/o5D0juj3oI=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
     <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="System.Buffers.dll" size="20856">
       <assemblyIdentity name="System.Buffers" version="4.0.3.0" publicKeyToken="CC7B13FFCD2DDD51" language="neutral" processorArchitecture="msil" />
       <hash>
@@ -606,38 +558,38 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="System.Data.SQLite.dll" size="356352">
-      <assemblyIdentity name="System.Data.SQLite" version="1.0.113.0" publicKeyToken="DB937BC2D44FF139" language="neutral" processorArchitecture="msil" />
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="System.Data.SQLite.dll" size="402336">
+      <assemblyIdentity name="System.Data.SQLite" version="1.0.116.0" publicKeyToken="DB937BC2D44FF139" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>ek3elItXO1qSyx9joiAQBuYeokEH2WaKNu+jeOjUjwg=</dsig:DigestValue>
+        <dsig:DigestValue>dELUiiTBdHyxfYDpXE1zQ94W4UolJISs474/rlWx1kE=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="System.Data.SQLite.EF6.dll" size="184832">
-      <assemblyIdentity name="System.Data.SQLite.EF6" version="1.0.113.0" publicKeyToken="DB937BC2D44FF139" language="neutral" processorArchitecture="msil" />
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="System.Data.SQLite.EF6.dll" size="203680">
+      <assemblyIdentity name="System.Data.SQLite.EF6" version="1.0.116.0" publicKeyToken="DB937BC2D44FF139" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>mDNmk8UNv/8nOsmTak7bSPHytBVwn34x3HI0GmNp0dY=</dsig:DigestValue>
+        <dsig:DigestValue>GBPvd8tWV9wBAZRF4SZ5DZv7teMQsFcfAtXXVNt7+jE=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="System.Data.SQLite.Linq.dll" size="184832">
-      <assemblyIdentity name="System.Data.SQLite.Linq" version="1.0.113.0" publicKeyToken="DB937BC2D44FF139" language="neutral" processorArchitecture="msil" />
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="System.Data.SQLite.Linq.dll" size="203680">
+      <assemblyIdentity name="System.Data.SQLite.Linq" version="1.0.116.0" publicKeyToken="DB937BC2D44FF139" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>FgNh5kGL7CdxjMq6Fh06kH0RNeGv2+bxyheBAshbenA=</dsig:DigestValue>
+        <dsig:DigestValue>nVXBxqGUxh0OeBD35iYHNMLhM3ltPk+2Uy7uWL1QRfw=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -863,31 +815,31 @@
       <dsig:DigestValue>SHABiBPv+aWwUARMXrY5uz5TbsHNOtA9o4m4MhbA9NU=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="Jvedio.exe.config" size="15202">
+  <file name="Jvedio.exe.config" size="16570">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>sN0g9Ev0/kKE0B0xN3kmVhApQD6zYImJOZZZwURlXfc=</dsig:DigestValue>
+      <dsig:DigestValue>fXI5Ywta5yG/WJwMBUWfWAsTN17NN2cvu9txgJpXCIA=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="Reference\ChaoControls.Style.dll" size="409088">
+  <file name="Reference\ChaoControls.Style.dll" size="422912">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>iO/oMhCCqomiQZU2RKoOZktxQuePtLRwZ9sEtFffxyw=</dsig:DigestValue>
+      <dsig:DigestValue>LeSDrG1auL7xdCKO761TOI2aOyqRF5PTWMrbwj5bX5A=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="Reference\CommonNet.dll" size="19456">
+  <file name="Reference\CommonNet.dll" size="22528">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>kqqjMV9aJJMd/iVRPTaOtHZByEix9YAJRnrJKWeMrxI=</dsig:DigestValue>
+      <dsig:DigestValue>pNncsJiOjvnE6CXAHzAyBXrWV3toEtI6dlZb17jyV7g=</dsig:DigestValue>
     </hash>
   </file>
   <file name="Reference\HtmlAgilityPack.dll" size="168960">
@@ -926,6 +878,15 @@
       <dsig:DigestValue>BRGDjrFyi340j/7fu14FMx1iQw5hl0i3ClsYy4s5Bl8=</dsig:DigestValue>
     </hash>
   </file>
+  <file name="Reference\MihaZupan.HttpToSocks5Proxy.dll" size="17408">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>8wNe8WjXuuC+/wRMu4OL1mAk1hZ8z1sEl+861tprxO8=</dsig:DigestValue>
+    </hash>
+  </file>
   <file name="Reference\PInvoke.dll" size="13312">
     <hash>
       <dsig:Transforms>
@@ -942,6 +903,24 @@
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
       <dsig:DigestValue>5+sLC12CVGo56y9qZ/OOpkbU9cbwKhpZsYCxWkxtKvk=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Reference\SuperControls.Style.dll" size="608768">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>wA2jxZq620WcWe/2DyBKzWckL7ZZE9l1NMbkci3qTR4=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Reference\SuperUtils.dll" size="95744">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>qTaUcj0Tftk3zLoakiGfAmqoX7EOa54N/o5D0juj3oI=</dsig:DigestValue>
     </hash>
   </file>
   <file name="Reference\UsnOperation.dll" size="12288">
@@ -969,15 +948,6 @@
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
       <dsig:DigestValue>dQSLACwg1VxtR0Bc36WMdoKWI/ljd7JgGzCq16iQx9k=</dsig:DigestValue>
-    </hash>
-  </file>
-  <file name="Test\SqliteTest\main.py" size="1961">
-    <hash>
-      <dsig:Transforms>
-        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
-      </dsig:Transforms>
-      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>ax3977Hixj+b+1Y3CdabHSIdzjLQd+3W1X9kIPu9HgI=</dsig:DigestValue>
     </hash>
   </file>
   <compatibility xmlns="urn:schemas-microsoft-com:compatibility.v1">
