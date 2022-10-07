@@ -342,14 +342,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Jvedio.exe" size="2056192">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Jvedio.exe" size="2056704">
       <assemblyIdentity name="Jvedio" version="5.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>MCy4ZMelwOV4QeInoF4kkaiHLqmIfxWFwk0fe4veW88=</dsig:DigestValue>
+        <dsig:DigestValue>jZKJ/baVg6zKtxa6ACpmavDfKR6IbZzXnbdu10ZlDig=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -821,7 +821,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>fXI5Ywta5yG/WJwMBUWfWAsTN17NN2cvu9txgJpXCIA=</dsig:DigestValue>
+      <dsig:DigestValue>qWepheqcEeIzBYzgihp3YG0mT9PLfFOtbrVSslBnVGg=</dsig:DigestValue>
     </hash>
   </file>
   <file name="Reference\CommonNet.dll" size="22528">
@@ -842,13 +842,13 @@
       <dsig:DigestValue>BCeHDk58ebmG0KCMj+/7EyStcWvgFKgsvKtKgY3Ei5w=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="Reference\JvedioLib.dll" size="53760">
+  <file name="Reference\JvedioLib.dll" size="78336">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>fGEVvb+t8GoVMOr2kpPEfT7e1oLcrMA7j7jti2cfdrM=</dsig:DigestValue>
+      <dsig:DigestValue>weLeIBzNFJfBCIQnep/5NSmnhh0mwjEKXLZtnR/XGs4=</dsig:DigestValue>
     </hash>
   </file>
   <file name="Reference\MediaInfo.dll" size="3032984">
