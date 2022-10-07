@@ -349,7 +349,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>9q2p19FJ7s4v4JCOPGNPIqvD9rs+qD56wsgEvT2hN/k=</dsig:DigestValue>
+        <dsig:DigestValue>MCy4ZMelwOV4QeInoF4kkaiHLqmIfxWFwk0fe4veW88=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -361,7 +361,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>V0q9xAYSkZWfUcCWPM+YRR6OT9cYuKLoPno0vFwsYjo=</dsig:DigestValue>
+        <dsig:DigestValue>dkkw0ZjMlmhcDmaYf3xWpr6pi2flell3ueGUrhQBkMs=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -529,7 +529,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>wA2jxZq620WcWe/2DyBKzWckL7ZZE9l1NMbkci3qTR4=</dsig:DigestValue>
+        <dsig:DigestValue>x3p4Zg64p/WVoAoPPRB357L4DmQm5c0cMYMtNjaIPGg=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -824,15 +824,6 @@
       <dsig:DigestValue>fXI5Ywta5yG/WJwMBUWfWAsTN17NN2cvu9txgJpXCIA=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="Reference\ChaoControls.Style.dll" size="422912">
-    <hash>
-      <dsig:Transforms>
-        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
-      </dsig:Transforms>
-      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>LeSDrG1auL7xdCKO761TOI2aOyqRF5PTWMrbwj5bX5A=</dsig:DigestValue>
-    </hash>
-  </file>
   <file name="Reference\CommonNet.dll" size="22528">
     <hash>
       <dsig:Transforms>
@@ -911,7 +902,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>wA2jxZq620WcWe/2DyBKzWckL7ZZE9l1NMbkci3qTR4=</dsig:DigestValue>
+      <dsig:DigestValue>x3p4Zg64p/WVoAoPPRB357L4DmQm5c0cMYMtNjaIPGg=</dsig:DigestValue>
     </hash>
   </file>
   <file name="Reference\SuperUtils.dll" size="95744">

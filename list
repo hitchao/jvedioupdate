@@ -18,11 +18,11 @@ Google.Protobuf.dll 6c9e69926ea4423764424e9b5f9e2896
 Google.Protobuf.pdb 70772fcaa7d26fbf88ac579266eaab2a
 HandyControl.dll ab098a198f7555afd9fa7ae3a676a993
 HtmlAgilityPack.dll 297df0efac47e4742a2ef28c77d437c1
-Jvedio.exe a546f1a85a75f319a29fa44e27fd15a6
+Jvedio.exe b2886d27d815fd2298b1c7653743f62a
 Jvedio.exe.config 407386d2b6dfa508636ea1c187abcafd
-Jvedio.exe.manifest e8cc4cdd61e2b52a1f33602866486053
-Jvedio.pdb 3424c539452fb679efa273d0944e0f02
-Jvedio.Style.dll 8652e95ffa89fa47274dc9e6213ea764
+Jvedio.exe.manifest 297cdf2c5c0efcd6d625a9801eee1953
+Jvedio.pdb ff9c44cf5cff85874c0d1a8a7cae15a3
+Jvedio.Style.dll 9ca93e720caaf6624208170e7a864b8b
 Jvedio.Style.dll.config 9dbad5517b46f41dbb0d8780b20ab87e
 Jvedio.Style.pdb f1eb8b1ef10f20bd9503a7b6e814510b
 JvedioLib.dll 460892bbab1e564bc88317bf994313f8
@@ -45,7 +45,7 @@ PresentationFramework.Aero.dll ee2b702b72dd65f310532065c5ecfc99
 PriorityQueue.dll 6864c4d5288cfb128def3d8fc0c9aa46
 PriorityQueue.pdb 1d68ae73b3a00dec70132ec538a9bd77
 QueryEngine.dll 429bc41932b16e2ffedcd4f91b0dda80
-SuperControls.Style.dll a8062dc56201daaa5529ccaff889bc5c
+SuperControls.Style.dll 6cc1aaf3b9ab16682f27ba6e50dbe602
 SuperUtils.dll 1e68eef8ff8d1f8a970f022e74128a5a
 System.Buffers.dll ecdfe8ede869d2ccc6bf99981ea96400
 System.Data.SQLite.dll 147328def2e79a86d7335a661eecc051
