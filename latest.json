@@ -1,9 +1,1 @@
-{
-	"LatestVersion":"5.0.0.0",
-    "ReleaseDate":"2022-10-07",
-    "ReleaseNote":{
-        "zh-CN":"Jvedio 5.0.0.0 \r\n2022-10-07 \r\n新增功能： \r\n【影片关联】 \r\n【任务调度】 \r\n【读取影片所在目录的图片】 \r\n【优化界面显示，提高流畅度】 \r\n【可导入所有视频】 \r\n【插件化管理】 \r\n【自定义多彩标记】 \r\n【插件】 \r\n注意： \r\n升级前请备份目录 DataBase \r\n如果升级失败，可以将目录下 data/用户名/olddata 目录下所有目录和文件复制回 4.6.1.1 版本",
-        "en-US":"JVEDIO 5.0.0.0 \r\n2022-10-07 \r\nnew features: \r\n【Video Association】 \r\n【Task scheduling】 \r\n[Read the picture where the video is located] \r\n[Optimize interface display, improve fluency] \r\n[All videos can be imported] \r\n【Plug -in Management】 \r\n【Customized color marks】 \r\n【Plug -in】 \r\nNotice: \r\nPlease back up the directory DataBase before upgrading \r\nIf the upgrade fails, you can copy all the directory and files under the Data/User Name/OLDDATA directory in the directory.",
-        "ja-JP":"JVEDIO 5.0.0.0 \r\n2022-10-07 \r\n新機能： \r\n【ビデオ協会】 \r\n【タスクスケジューリング】 \r\n[ビデオがある写真を読む] \r\n[インターフェイスディスプレイを最適化し、流encyさを向上させる] \r\n[すべてのビデオをインポートできます] \r\n【プラグインマネジメント】 \r\n【カスタマイズされたカラーマーク \r\n【プラグ-in】 \r\n知らせ： \r\nアップグレードする前に、ディレクトリデータベースをバックアップしてください \r\nアップグレードが失敗した場合、ディレクトリ内のデータ/ユーザー名/OldDataディレクトリの下にすべてのディレクトリとファイルをコピーできます。"
-    }
-}
+﻿{"LatestVersion":"5.0","ReleaseDate":"2022-10-07","ReleaseNote":{"zh-CN":"Jvedio 5.0.0.0 \r\n2022-10-07 \r\n新增功能： \r\n【影片关联】 \r\n【任务调度】 \r\n【读取影片所在目录的图片】 \r\n【优化界面显示，提高流畅度】 \r\n【可导入所有视频】 \r\n【插件化管理】 \r\n【自定义多彩标记】 \r\n【插件】 \r\n注意： \r\n升级前请备份目录 DataBase \r\n如果升级失败，可以将目录下 data/用户名/olddata 目录下所有目录和文件复制回 4.6.1.1 版本","en-US":""}}
