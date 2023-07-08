@@ -1,6 +1,6 @@
 ﻿{
-  "LatestVersion": "5.3",
-  "ReleaseDate": "2023-06-28",
+  "LatestVersion": "5.3.1",
+  "ReleaseDate": "2023-07-08",
   "ReleaseNote": {
     "zh-CN": "【一、新增功能】\r\n修复详情页输入文字，触发快捷键问题\r\n修复分段视频无法加入、编辑无法添加\r\n统一 ViewBox\r\n\r\n【二、修复优化】\r\n修复 getdir 为空问题"
   }
