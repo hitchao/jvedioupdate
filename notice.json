@@ -1,1 +1,14 @@
-{"Date":"2022-11-02","Data":[{"Type":"Hint","Message":"欢迎使用 Jvedio 5.0"},{"Type":"Hint","Message":"如果无法更新，请前往官网下载压缩文件并覆盖，注意备份！"}]}
+{
+  "Date": "2023-09-30",
+  "Data": 
+    [{
+      "Type": "Hint",
+      "Message": "Jvedio 5.4 已推出。更好用！更流畅！功能更丰富！"
+    },{
+      "Type": "Hint",
+      "Message": "如果无法更新，请前往官网下载压缩文件并覆盖，注意备份 data 目录！"
+    },{
+      "Type": "Hint",
+      "Message": "预祝大家中秋、国庆快乐！"
+    }]
+}
